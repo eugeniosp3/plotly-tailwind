@@ -18,6 +18,9 @@ app = Dash(__name__,
            )
 ```
 
+<br><br>
+<img width="1696" alt="image" src="https://github.com/eugeniosp3/plotly-tailwind/assets/64187887/b78bc92d-aafc-4a16-931f-7bbbf6904d1e">
+
 
 **Main Features**
 Efficient Styling with Tailwind CSS: Utilizing Tailwind CSS via its CDN to style Dash applications without the need to download or locally reference CSS files.
