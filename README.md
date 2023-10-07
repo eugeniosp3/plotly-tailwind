@@ -19,7 +19,7 @@ app = Dash(__name__,
 ```
 
 <br><br>
-<img width="1696" alt="image" src="https://github.com/eugeniosp3/plotly-tailwind/assets/64187887/b78bc92d-aafc-4a16-931f-7bbbf6904d1e">
+![image](https://github.com/eugeniosp3/plotly-tailwind/assets/64187887/b7c40ca0-bdc9-4c67-93bc-c3bd24c49403)
 
 
 **Main Features**
