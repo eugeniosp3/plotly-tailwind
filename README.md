@@ -1,8 +1,3 @@
-[Visit the YouTube Channel](https://www.youtube.com/channel/UCwAsnLbyt87_TeGAKOkbm2w)
-<br>[Holler at me on LinkedIn](https://linkedin.com/in/datagarage)
-<br>[Join the Discord for fun](https://discord.gg/N84v7RAweS)
-
-
 
 # Project Title: Dash-TailwindCSS Integration
 **TLDR**
